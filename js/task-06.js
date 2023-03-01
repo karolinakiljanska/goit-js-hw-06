@@ -1,4 +1,4 @@
-const newInput = document.querySelector("#validation-input");
+const textInput = document.querySelector("#validation-input");
 
 textInput.addEventListener("blur", onBlur);
 function onBlur(e) {
